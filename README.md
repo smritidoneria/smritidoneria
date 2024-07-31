@@ -11,4 +11,4 @@ I'm passionate about creating innovative web solutions and bringing ideas to lif
 
 Let's collaborate, innovate, and build a better web together! 💻🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smritidoneria &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smritidoneria&theme=radical)
