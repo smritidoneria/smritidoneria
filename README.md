@@ -41,5 +41,3 @@ smritidoneria@github
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=smritidoneria)](https://git.io/streak-stats)
